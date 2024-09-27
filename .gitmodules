@@ -1,0 +1,3 @@
+[submodule "scraping_app"]
+	path = scraping_app
+	url = https://github.com/YoIgarashi/scraping/tree/fix/directory
